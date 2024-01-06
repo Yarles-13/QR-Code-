@@ -17,11 +17,9 @@
       <p> Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
     </div>
   </div>
-</body>
-</html>
-
-
-:root {
+  
+<style>
+  :root {
   --white: hsl(0, 0%, 100%);
   --lightGray: hsl(212, 45%, 89%);
   --grayishBlue: hsl(220, 15%, 55%);
@@ -57,4 +55,10 @@ img {
   width: 20%;
   padding-top: 10px;
 }
+  
+</style>
+
+
+</body>
+</html>
 
