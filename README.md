@@ -12,9 +12,9 @@
     <div class='qrWrapper'>
       <img src='https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=example'>
     </div>
-    <h3>Improve your front-end skills by building Projects </h3>
+    <h3> Scan the above to enter the gate  </h3>
     <div class='textwrapper'>
-      <p> Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+      <p> Please make sure you are carrying your ID and have battery on the phone</p>
     </div>
   </div>
   
